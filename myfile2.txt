@@ -1,2 +1,3 @@
 this is file2
 added more contents to the file on remote repo
+contents added on local copy and to be pushed onto remote repo
